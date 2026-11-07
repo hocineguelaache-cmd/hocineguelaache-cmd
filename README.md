@@ -17,8 +17,7 @@
 
 </div>
 
----
-
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
 ### 👤 À propos · About
 
 🇫🇷 Étudiant en 4ᵉ année du cycle ingénieur en génie logiciel à l'Université Abderrahmane Mira de Béjaïa, je conçois et développe des applications web (PHP, JavaScript, Vue.js) et desktop (Java, Python), de la modélisation UML à la conception de bases de données. Je travaille avec Git et Jira pour organiser et suivre mes projets.
@@ -36,8 +35,7 @@
 - 🤝 **Méthode** : travail en équipe, versionnement Git, suivi de projet avec Jira
 - 🌍 **Objectif** : opportunités professionnelles et poursuite d'études à l'étranger
 
----
-
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
 ### 🧰 Compétences · Skills
 
 <div align="center">
@@ -57,8 +55,7 @@
 
 </div>
 
----
-
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
 ### 🚀 Projets · Projects
 
 <table>
@@ -120,10 +117,25 @@
   </tr>
 </table>
 
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+### 🐉 Never stop training
 
+<div align="center">
 
----
+<img src="assets/goku-vs-vegeta.gif" width="260" alt="Goku and Vegeta, Dragon Ball pixel animation">
 
+<sub>Animation : balthazar321 · Dragon Ball © Akira Toriyama / Shueisha / Toei Animation</sub>
+
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+### 🏆 Le Crédo de Hocine · Quotes
+
+> *“Set sail, ship code, never stop learning.”* 夢を追え
+
+> *“If you don't take risks, you can't create a future.”* Monkey D. Luffy, One Piece
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
 ### 🤝 Vie associative · Community
 
 Membre de **ETC (ENSIA Tech Community)**, j'ai contribué à l'organisation de :
@@ -134,30 +146,7 @@ Membre de **ETC (ENSIA Tech Community)**, j'ai contribué à l'organisation de :
 
 *Ces certificats attestent de mes compétences en organisation et en travail d'équipe.*
 
----
-
-
-### 🏆 Le Crédo de Hocine · Quotes
-
-> *“Set sail, ship code, never stop learning.”* 夢を追え
-
-> *“If you don't take risks, you can't create a future.”* Monkey D. Luffy, One Piece
-
- ---
-
-
-### 🐉 Never stop training
-
-<div align="center">
-
-<img src="assets/goku-vs-vegeta.gif" width="260" alt="Goku and Vegeta, Dragon Ball pixel animation">
-
-
- ---
-
-
-</div>
-
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
 <div align="center">
 
 ご訪問ありがとうございます · Merci de votre visite · Thanks for visiting 🏴‍☠️
