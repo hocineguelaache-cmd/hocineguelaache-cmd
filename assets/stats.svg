@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" width="900" height="230" role="img" aria-label="GitHub statistics for hocineguelaache-cmd">
+<g font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+<rect width="900" height="230" rx="16" fill="#0d1117"/>
+<rect width="5" height="230" fill="#F7C936"/>
+<text x="40" y="44" font-size="11" font-weight="600" letter-spacing="2.2" fill="#7d8590">GITHUB STATISTICS</text>
+<text x="520" y="44" font-size="11" font-weight="600" letter-spacing="2.2" fill="#7d8590">TOP LANGUAGES</text>
+<rect x="40" y="52" width="40" height="2" fill="#F7C936"/><rect x="520" y="52" width="40" height="2" fill="#F7C936"/>
+<text x="40" y="96" font-size="28" font-weight="700" fill="#f0f6fc">–</text><text x="40" y="116" font-size="11" letter-spacing="1" fill="#7d8590">PUBLIC REPOS</text><text x="190" y="96" font-size="28" font-weight="700" fill="#f0f6fc">–</text><text x="190" y="116" font-size="11" letter-spacing="1" fill="#7d8590">STARS EARNED</text><text x="340" y="96" font-size="28" font-weight="700" fill="#f0f6fc">–</text><text x="340" y="116" font-size="11" letter-spacing="1" fill="#7d8590">FOLLOWERS</text><text x="40" y="170" font-size="28" font-weight="700" fill="#f0f6fc">–</text><text x="40" y="190" font-size="11" letter-spacing="1" fill="#7d8590">COMMITS (TOTAL)</text><text x="190" y="170" font-size="28" font-weight="700" fill="#f0f6fc">–</text><text x="190" y="190" font-size="11" letter-spacing="1" fill="#7d8590">PULL REQUESTS</text><text x="340" y="170" font-size="28" font-weight="700" fill="#f0f6fc">–</text><text x="340" y="190" font-size="11" letter-spacing="1" fill="#7d8590">CONTRIBUTIONS (12 MO)</text>
+<g clip-path="inset(0 round 5px)"><rect x="520" y="76" width="340" height="10" rx="5" fill="#161b22"/></g>
+<text x="520" y="118" font-size="13" fill="#7d8590">Updated automatically by GitHub Actions</text>
+<rect x=".5" y=".5" width="899" height="229" rx="16" fill="none" stroke="#30363d"/>
+</g></svg>
