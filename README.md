@@ -148,8 +148,6 @@ Membre de **ETC (ENSIA Tech Community)**, j'ai contribué à l'organisation de :
 </div>
 
 
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
 <div align="center">
 
 ご訪問ありがとうございます · Merci de votre visite · Thanks for visiting 🏴‍☠️
