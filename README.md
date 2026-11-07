@@ -28,15 +28,11 @@
 
 🇬🇧 4th-year Software Engineering student at the University of Béjaïa, building web (PHP, JavaScript, Vue.js) and desktop (Java) applications, from UML modelling to database design. I use Jira and Git to organise my projects.
 
-```bash
-hocine@uam-bejaia:~$ cat languages.txt
-> 🌍 Arabe (natif) | Kabyle (natif) | Français (courant) | Anglais (courant) | 日本語 (Passion)
+<div align="center">
 
-hocine@uam-bejaia:~$ cat status.txt
-> 🟢 Open to work & studies abroad
-> 🎓 Étudiant en 4ᵉ année, cycle ingénieur en génie logiciel
-> 📍 Béjaïa, Algérie
-```
+<img src="assets/terminal.svg" alt="Terminal: whoami, about, what I do, stack and status" width="100%">
+
+</div>
 
 - 🏴‍☠️ **Équipage** : Université Abderrahmane Mira de Béjaïa (promo 2023)
 - 🐉 **Power Level** : en constante augmentation (Java, PHP, Vue.js, SQL)
