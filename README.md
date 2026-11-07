@@ -138,19 +138,22 @@ Membre de **ETC (ENSIA Tech Community)**, j'ai contribué à l'organisation de :
 
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
-<div align="center">
-
-ご訪問ありがとうございます · Merci de votre visite · Thanks for visiting 🏴‍☠️
-
-</div>
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
 ### 🐉 Never stop training
 
 <div align="center">
 
 <img src="assets/goku-vs-vegeta.gif" width="260" alt="Goku and Vegeta, Dragon Ball pixel animation">
 
-<sub>Animation : balthazar321 · Dragon Ball © Akira Toriyama / Shueisha / Toei Animation</sub>
 
 </div>
+
+
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+<div align="center">
+
+ご訪問ありがとうございます · Merci de votre visite · Thanks for visiting 🏴‍☠️
+
+</div>
+
+
