@@ -40,6 +40,36 @@ hocine@uam-bejaia:~$ cat status.txt
 > 🟢 Open to work & studies abroad
 > 🎓 Étudiant en 4ᵉ année, cycle ingénieur en génie logiciel
 > 📍 Béjaïa, Algérie
+🏴‍☠️ Équipage : Université Abderrahmane Mira de Béjaïa (Promo 2023).
 
+🐉 Power Level : En constante augmentation (Java, PHP, Vue.js, SQL).
 
+🥊 Style de Combat : Persévérance à la Ippo. Je ne m'arrête pas avant d'avoir compris le bug.
+
+⚡ Gear Second : Toujours prêt à apprendre de nouvelles technologies et à relever des défis.
+
+⚔️ Mes Compétences (Combat Style)
 <div align="center"> <!-- Langages & Web --> <img src="https://skillicons.dev/icons?i=java,c,cpp,python,php,javascript,html,css,vuejs,nodejs&perline=10" /> <br> <!-- Bases de données & Outils --> <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,docker,latex,figma,jira&perline=8" /> <br> <i>Également : Oracle Database, PL/SQL, UML, MATLAB, Java Swing, GitHub Actions</i> </div>
+🏴‍☠️ Mes Projets (Mes Trésors)
+<table> <tr> <td width="50%"> <h3 align="center">🛒 TechStore</h3> <p align="center">Plateforme e-commerce complète (Projet scolaire 2026)</p> <p align="center"> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> </p> </td> <td width="50%"> <h3 align="center">✈️ Gestion de Pilotage</h3> <p align="center">Application desktop de gestion de vols</p> <p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Java_Swing-007396?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> </p> </td> </tr> </table>
+🤝 Vie Associative (Nakama)
+Membre de l'ETC (ENSIA Tech Community). J'ai eu l'honneur de contribuer à l'organisation de :
+
+🏆 ETCode 2k25
+
+🏕️ BitCamp, 4ᵉ édition (28/02/2026)
+
+💻 ETCode, 4ᵉ édition (22/06/2026)
+
+(Ces certificats attestent de mes compétences en organisation et travail d'équipe).
+
+📊 Mes Stats (Dragon Radar)
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hocineguelaache-cmd&show_icons=true&theme=radical&title_color=F7C936&icon_color=F7C936&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="GitHub Stats" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hocineguelaache-cmd&theme=radical&background=0D1117&ring=F7C936&fire=F7C936&currStreakNum=ffffff&hide_border=true" alt="GitHub Streak" /> </div>
+🏆 Le Crédo de Hocine (Quotes)
+"Sail, ship code, never stop learning."
+
+"If you don't take risks, you can't create a future." — Monkey D. Luffy (One Piece)
+
+"It's not about being the strongest, it's about being the one who never gives up." — Hajime no Ippo
+
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=F7C936&height=100&section=footer" /> </div> ```
