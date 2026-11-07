@@ -120,17 +120,6 @@
   </tr>
 </table>
 
----
-
-### 🐉 Never stop training
-
-<div align="center">
-
-<img src="assets/goku-vs-vegeta.gif" width="260" alt="Goku and Vegeta, Dragon Ball pixel animation">
-
-
-
-</div>
 
 
 ---
@@ -155,6 +144,19 @@ Membre de **ETC (ENSIA Tech Community)**, j'ai contribué à l'organisation de :
 > *“If you don't take risks, you can't create a future.”* Monkey D. Luffy, One Piece
 
  ---
+
+
+### 🐉 Never stop training
+
+<div align="center">
+
+<img src="assets/goku-vs-vegeta.gif" width="260" alt="Goku and Vegeta, Dragon Ball pixel animation">
+
+
+ ---
+
+
+</div>
 
 <div align="center">
 
