@@ -117,25 +117,10 @@
   </tr>
 </table>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
-<h2 align="center"><img src="assets/title-training.svg" alt="Never stop training" width="100%"></h2>
 
-<div align="center">
-
-<img src="assets/goku-vs-vegeta.gif" width="260" alt="Goku and Vegeta, Dragon Ball pixel animation">
-
-<sub>Animation : balthazar321 · Dragon Ball © Akira Toriyama / Shueisha / Toei Animation</sub>
-
-</div>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
-<h2 align="center"><img src="assets/title-quotes.svg" alt="Le Crédo de Hocine" width="100%"></h2>
 
-> *“Set sail, ship code, never stop learning.”* 夢を追え
-
-> *“If you don't take risks, you can't create a future.”* Monkey D. Luffy, One Piece
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
 <h2 align="center"><img src="assets/title-community.svg" alt="Vie associative" width="100%"></h2>
 
 Membre de **ETC (ENSIA Tech Community)**, j'ai contribué à l'organisation de :
@@ -147,6 +132,24 @@ Membre de **ETC (ENSIA Tech Community)**, j'ai contribué à l'organisation de :
 *Ces certificats attestent de mes compétences en organisation et en travail d'équipe.*
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+
+<h2 align="center"><img src="assets/title-quotes.svg" alt="Le Crédo de Hocine" width="100%"></h2>
+
+> *“Set sail, ship code, never stop learning.”* 夢を追え
+
+> *“If you don't take risks, you can't create a future.”* Monkey D. Luffy, One Piece
+
+
+
+
+<div align="center">
+
+<img src="assets/goku-vs-vegeta.gif" width="260" alt="Goku and Vegeta, Dragon Ball pixel animation">
+
+
+
+</div>
+
 <div align="center">
 
 ご訪問ありがとうございます · Merci de votre visite · Thanks for visiting 🏴‍☠️
