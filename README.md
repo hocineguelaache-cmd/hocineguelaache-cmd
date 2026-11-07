@@ -18,7 +18,7 @@
 </div>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
-### 👤 À propos · About
+<h2 align="center"><img src="assets/title-about.svg" alt="À propos" width="100%"></h2>
 
 🇫🇷 Étudiant en 4ᵉ année du cycle ingénieur en génie logiciel à l'Université Abderrahmane Mira de Béjaïa, je conçois et développe des applications web (PHP, JavaScript, Vue.js) et desktop (Java, Python), de la modélisation UML à la conception de bases de données. Je travaille avec Git et Jira pour organiser et suivre mes projets.
 
@@ -36,7 +36,7 @@
 - 🌍 **Objectif** : opportunités professionnelles et poursuite d'études à l'étranger
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
-### 🧰 Compétences · Skills
+<h2 align="center"><img src="assets/title-skills.svg" alt="Compétences" width="100%"></h2>
 
 <div align="center">
 
@@ -56,7 +56,7 @@
 </div>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
-### 🚀 Projets · Projects
+<h2 align="center"><img src="assets/title-projects.svg" alt="Projets" width="100%"></h2>
 
 <table>
   <tr>
@@ -117,9 +117,26 @@
   </tr>
 </table>
 
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+<h2 align="center"><img src="assets/title-training.svg" alt="Never stop training" width="100%"></h2>
+
+<div align="center">
+
+<img src="assets/goku-vs-vegeta.gif" width="260" alt="Goku and Vegeta, Dragon Ball pixel animation">
+
+<sub>Animation : balthazar321 · Dragon Ball © Akira Toriyama / Shueisha / Toei Animation</sub>
+
+</div>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
-### 🤝 Vie associative · Community
+<h2 align="center"><img src="assets/title-quotes.svg" alt="Le Crédo de Hocine" width="100%"></h2>
+
+> *“Set sail, ship code, never stop learning.”* 夢を追え
+
+> *“If you don't take risks, you can't create a future.”* Monkey D. Luffy, One Piece
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+<h2 align="center"><img src="assets/title-community.svg" alt="Vie associative" width="100%"></h2>
 
 Membre de **ETC (ENSIA Tech Community)**, j'ai contribué à l'organisation de :
 
@@ -128,30 +145,10 @@ Membre de **ETC (ENSIA Tech Community)**, j'ai contribué à l'organisation de :
 - 💻 ETCode, 4ᵉ édition (22/06/2026)
 
 *Ces certificats attestent de mes compétences en organisation et en travail d'équipe.*
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
-
-### 🏆 Le Crédo de Hocine · Quotes
-
-> *“Set sail, ship code, never stop learning.”* 夢を追え
-
-> *“If you don't take risks, you can't create a future.”* Monkey D. Luffy, One Piece
-
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
-### 🐉 Never stop training
-
-<div align="center">
-
-<img src="assets/goku-vs-vegeta.gif" width="260" alt="Goku and Vegeta, Dragon Ball pixel animation">
-
-
-</div>
-
-
 <div align="center">
 
 ご訪問ありがとうございます · Merci de votre visite · Thanks for visiting 🏴‍☠️
 
 </div>
-
-
