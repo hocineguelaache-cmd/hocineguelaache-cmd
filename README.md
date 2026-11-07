@@ -40,3 +40,6 @@ hocine@uam-bejaia:~$ cat status.txt
 > 🟢 Open to work & studies abroad
 > 🎓 Étudiant en 4ᵉ année, cycle ingénieur en génie logiciel
 > 📍 Béjaïa, Algérie
+
+
+<div align="center"> <!-- Langages & Web --> <img src="https://skillicons.dev/icons?i=java,c,cpp,python,php,javascript,html,css,vuejs,nodejs&perline=10" /> <br> <!-- Bases de données & Outils --> <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,docker,latex,figma,jira&perline=8" /> <br> <i>Également : Oracle Database, PL/SQL, UML, MATLAB, Java Swing, GitHub Actions</i> </div>
