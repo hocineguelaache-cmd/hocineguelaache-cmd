@@ -128,17 +128,10 @@
 
 <img src="assets/goku-vs-vegeta.gif" width="260" alt="Goku and Vegeta, Dragon Ball pixel animation">
 
-<sub>Animation : balthazar321 · Dragon Ball © Akira Toriyama / Shueisha / Toei Animation</sub>
+
 
 </div>
 
----
-
-### 🏆 Le Crédo de Hocine · Quotes
-
-> *“Set sail, ship code, never stop learning.”* 夢を追え
-
-> *“If you don't take risks, you can't create a future.”* Monkey D. Luffy, One Piece
 
 ---
 
@@ -153,6 +146,15 @@ Membre de **ETC (ENSIA Tech Community)**, j'ai contribué à l'organisation de :
 *Ces certificats attestent de mes compétences en organisation et en travail d'équipe.*
 
 ---
+
+
+### 🏆 Le Crédo de Hocine · Quotes
+
+> *“Set sail, ship code, never stop learning.”* 夢を追え
+
+> *“If you don't take risks, you can't create a future.”* Monkey D. Luffy, One Piece
+
+ ---
 
 <div align="center">
 
