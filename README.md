@@ -117,23 +117,6 @@
   </tr>
 </table>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
-### 🐉 Never stop training
-
-<div align="center">
-
-<img src="assets/goku-vs-vegeta.gif" width="260" alt="Goku and Vegeta, Dragon Ball pixel animation">
-
-<sub>Animation : balthazar321 · Dragon Ball © Akira Toriyama / Shueisha / Toei Animation</sub>
-
-</div>
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
-### 🏆 Le Crédo de Hocine · Quotes
-
-> *“Set sail, ship code, never stop learning.”* 夢を追え
-
-> *“If you don't take risks, you can't create a future.”* Monkey D. Luffy, One Piece
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
 ### 🤝 Vie associative · Community
@@ -145,10 +128,29 @@ Membre de **ETC (ENSIA Tech Community)**, j'ai contribué à l'organisation de :
 - 💻 ETCode, 4ᵉ édition (22/06/2026)
 
 *Ces certificats attestent de mes compétences en organisation et en travail d'équipe.*
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+
+### 🏆 Le Crédo de Hocine · Quotes
+
+> *“Set sail, ship code, never stop learning.”* 夢を追え
+
+> *“If you don't take risks, you can't create a future.”* Monkey D. Luffy, One Piece
+
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
 <div align="center">
 
 ご訪問ありがとうございます · Merci de votre visite · Thanks for visiting 🏴‍☠️
+
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""></div>
+### 🐉 Never stop training
+
+<div align="center">
+
+<img src="assets/goku-vs-vegeta.gif" width="260" alt="Goku and Vegeta, Dragon Ball pixel animation">
+
+<sub>Animation : balthazar321 · Dragon Ball © Akira Toriyama / Shueisha / Toei Animation</sub>
 
 </div>
