@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 46" width="150" height="46" role="img" aria-label="Email">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F0382E"/><stop offset="1" stop-color="#A80F18"/></linearGradient>
+<linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".28"/><stop offset=".55" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<rect x="1" y="1" width="148" height="44" rx="12" fill="url(#g)" stroke="#F7C936" stroke-width="1.6"/>
+<rect x="2" y="2" width="146" height="22" rx="11" fill="url(#s)"/>
+<g transform="translate(18 11)" fill="none" stroke="#F7C936" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="3"/><path d="M3 7l9 7 9-7"/></g>
+<text x="52" y="29" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#fff" letter-spacing=".3">Email</text>
+</svg>
