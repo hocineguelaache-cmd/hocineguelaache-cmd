@@ -4,10 +4,16 @@
 
 <br>
 
-<a href="https://hocineguelaache-cmd.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=F7C936" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/hocine-guelaache-5b856231a/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F7C936" alt="LinkedIn"></a>
-<a href="https://hocineguelaache-cmd.github.io/portfolio/documents/CvPr.pdf"><img src="https://img.shields.io/badge/CV-0D1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=F7C936" alt="CV"></a>
-<a href="mailto:hocineguelaache@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F7C936" alt="Email"></a>
+<a href="https://github.com/hocineguelaache-cmd">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F7C936&background=0D1117&center=true&vCenter=true&width=760&height=50&lines=hocine%40uam-bejaia%3A~%24+whoami;Hocine+Guelaache+%28%E3%83%9B%E3%82%B9%E3%82%A3%E3%83%B3%29+%7C+Software+Engineering+Student;4th-year+%40+UAM+B%C3%A9ja%C3%AFa%2C+Algeria;Open+to+work+%26+studies+abroad+%F0%9F%8C%8D;%E5%A4%A2%E3%82%92%E8%BF%BD%E3%81%88+%C2%B7+Chase+your+dreams;Java+%C2%B7+PHP+%C2%B7+Vue.js+%C2%B7+SQL" alt="Terminal animation">
+</a>
+
+<br>
+
+<a href="https://hocineguelaache-cmd.github.io/portfolio/"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="46"></a>
+<a href="https://www.linkedin.com/in/hocine-guelaache-5b856231a/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="46"></a>
+<a href="https://hocineguelaache-cmd.github.io/portfolio/documents/CvPr.pdf"><img src="assets/btn-cv.svg" alt="CV" height="46"></a>
+<a href="mailto:hocineguelaache@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="46"></a>
 
 </div>
 
@@ -59,7 +65,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4 align="center">🛒 TechStore</h4>
-      <p align="center">Plateforme e-commerce complète : catalogue, panier, authentification et espace administrateur. Projet scolaire, 2026.</p>
+      <p align="center">Plateforme e-commerce complète : catalogue, panier, authentification et espace administrateur. Projet scolaire, 2026. <a href="https://tech-shop.site.je/tech-shop/index.php">Démo</a></p>
       <p align="center">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
@@ -78,7 +84,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4 align="center">⚡ FixWatts</h4>
-      <p align="center">Application web PHP/MySQL déployée en ligne. <a href="https://fixwatts.site.je/fixwatts/public/index.php?i=1">Démo</a></p>
+      <p align="center">Application web PHP/MySQL déployée en ligne. <a href="https://fixwatts.site.je/fixwatts/public/catalogue.php">Démo</a></p>
       <p align="center">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
@@ -128,7 +134,7 @@
 
 ---
 
-### 💬 Citations · Quotes
+### 🏆 Le Crédo de Hocine · Quotes
 
 > *“Set sail, ship code, never stop learning.”* 夢を追え
 
@@ -145,16 +151,6 @@ Membre de **ETC (ENSIA Tech Community)**, j'ai contribué à l'organisation de :
 - 💻 ETCode, 4ᵉ édition (22/06/2026)
 
 *Ces certificats attestent de mes compétences en organisation et en travail d'équipe.*
-
----
-
-### 📊 Statistiques GitHub · Stats
-
-<div align="center">
-
-<img src="assets/stats.svg" alt="GitHub statistics" width="100%">
-
-</div>
 
 ---
 
