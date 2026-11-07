@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 44" width="900" height="44" role="presentation" aria-hidden="true">
+<defs>
+<linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E5251D" stop-opacity="0"/><stop offset=".35" stop-color="#E5251D"/><stop offset="1" stop-color="#F7C936"/></linearGradient>
+<linearGradient id="r" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F7C936"/><stop offset=".65" stop-color="#E5251D"/><stop offset="1" stop-color="#E5251D" stop-opacity="0"/></linearGradient>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".85"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="lines"><rect x="40" y="21" width="372" height="3" rx="1.5"/><rect x="488" y="21" width="372" height="3" rx="1.5"/></clipPath>
+</defs>
+<rect x="40" y="21" width="372" height="3" rx="1.5" fill="url(#l)"/>
+<rect x="488" y="21" width="372" height="3" rx="1.5" fill="url(#r)"/>
+<g clip-path="url(#lines)"><rect x="-90" y="19" width="90" height="7" fill="url(#sh)"><animateTransform attributeName="transform" type="translate" from="0 0" to="1000 0" dur="4.5s" repeatCount="indefinite"/></rect></g>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -1.5;0 0" dur="3s" repeatCount="indefinite"/>
+<path d="M431 24C431 5 469 5 469 24Z" fill="#F7C936" stroke="#C99A12" stroke-width="1"/>
+<rect x="431.5" y="17.5" width="37" height="6" fill="#E5251D"/>
+<ellipse cx="450" cy="25" rx="27" ry="6.5" fill="#F7C936" stroke="#C99A12" stroke-width="1"/>
+<ellipse cx="450" cy="23.2" rx="19" ry="3" fill="#E5251D" opacity=".0"/>
+</g>
+<circle cx="418" cy="22.5" r="2.5" fill="#F7C936"/><circle cx="482" cy="22.5" r="2.5" fill="#F7C936"/>
+</svg>
